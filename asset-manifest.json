@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://spais.github.io/csb-ffrxy/static/js/main.bfdb7c11.chunk.js",
+    "main.js.map": "https://spais.github.io/csb-ffrxy/static/js/main.bfdb7c11.chunk.js.map",
+    "runtime-main.js": "https://spais.github.io/csb-ffrxy/static/js/runtime-main.f31798e4.js",
+    "runtime-main.js.map": "https://spais.github.io/csb-ffrxy/static/js/runtime-main.f31798e4.js.map",
+    "static/js/2.064e82d5.chunk.js": "https://spais.github.io/csb-ffrxy/static/js/2.064e82d5.chunk.js",
+    "static/js/2.064e82d5.chunk.js.map": "https://spais.github.io/csb-ffrxy/static/js/2.064e82d5.chunk.js.map",
+    "index.html": "https://spais.github.io/csb-ffrxy/index.html",
+    "static/js/2.064e82d5.chunk.js.LICENSE.txt": "https://spais.github.io/csb-ffrxy/static/js/2.064e82d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f31798e4.js",
+    "static/js/2.064e82d5.chunk.js",
+    "static/js/main.bfdb7c11.chunk.js"
+  ]
+}
